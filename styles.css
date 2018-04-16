@@ -1,0 +1,19 @@
+/* hello world this is my first style sheet */
+h1{
+            font-family: Comic Sans MS;
+            font-size: 150px;
+            color:  #7d8fd9;
+            
+        }
+  a {
+            font-family: Comic Sans MS;
+            font-size: 50px;
+            color: #9CDBF3;
+            
+        }
+        .rachel {
+            font-weight: bold;
+            font-family: Arial;
+            font-style: oblique
+            
+        }

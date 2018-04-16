@@ -1,0 +1,38 @@
+/* hello world this is my first style sheet */
+.homebody { text-align: center}
+h1{
+            font-family: sans-serif;
+            font-size: 80px;
+            color:  #7d8fd9;
+            
+        }
+  a {
+            font-family: sans-serif;
+            font-size: 50px;
+            color: #9CDBF3;
+            
+        }
+        .rachel {
+            font-weight: bold;
+            font-family: Arial;
+            font-style: oblique
+            
+        }
+p { 
+    font-family: sans-serif;
+            font-size: 30px;
+            color: #31111;
+}
+
+ul li {
+    display: inline;
+    font-size: 50px;
+    font-family: sans-serif;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+ul.menu li a {text-decoration: none}
+ul.menu li a:hover {text-decoration: ;
+    background-color: #CCCCCC;
+    
+}
