@@ -2,14 +2,16 @@
 .homebody { text-align: center}
 h1{
             font-family: sans-serif;
-            font-size: 80px;
-            color:  #7d8fd9;
+            font-size: 70px;
+            color: #00cccc;
+    text-align: center;
+}
             
         }
   a {
             font-family: sans-serif;
-            font-size: 50px;
-            color: #9CDBF3;
+            font-size: 30px;
+            color: #ffd11a;
             
         }
         .rachel {
@@ -22,6 +24,8 @@ p {
     font-family: sans-serif;
             font-size: 30px;
             color: #31111;
+    text-align: center;
+    
 }
 
 ul li {
@@ -33,6 +37,7 @@ ul li {
 }
 ul.menu li a {text-decoration: none}
 ul.menu li a:hover {text-decoration: ;
-    background-color: #CCCCCC;
+    color: black;
     
 }
+a:visited {color: #ffd11a}
